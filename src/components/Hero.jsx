@@ -3,7 +3,7 @@ import { CiDollar } from "react-icons/ci";
 import { FiHome } from "react-icons/fi";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import banner from '../assets/slider4.jpg'
+import banner from '../assets/slider.jpg'
 
 const Hero = () => {
   return (

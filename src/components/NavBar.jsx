@@ -185,7 +185,7 @@ const NavBar = () => {
               </button>
             </Link>
             <Link to="/signup">
-              <button className="btn btn-secondary text-white border-none outline-none">
+              <button className="btn bg-cyan-400 text-white border-none outline-none">
                 Sign Up
               </button>
             </Link>
