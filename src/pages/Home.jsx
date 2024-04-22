@@ -10,7 +10,7 @@ const Home = () => {
     <div>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Home: Prebon Builders</title>
+        <title>Home: Dream Housings</title>
       </Helmet>
       <Hero></Hero>
       <Discount></Discount>

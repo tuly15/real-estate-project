@@ -5,7 +5,7 @@ const Footer = () => {
         <aside>
           <img className="size-14" src="./logo.jpg" alt="" />
           <p className="max-w-sm">
-            Prebon Builders Limited
+            Dream Housings Limited
             <br />
             We dont make your home we make your dream
           </p>

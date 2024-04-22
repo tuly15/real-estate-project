@@ -114,7 +114,7 @@ const Hero = () => {
             Find Your <span className="text-[#D72050]">Accomodation</span> With{" "}
             {""}
             <span className="  font-bold bg-gradient-to-r from-orange-700 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient bg-300%">
-              PrebonBuilders {""}
+              DreamHousings {""}
             </span>
             Explore Your Home Now
           </h1>
