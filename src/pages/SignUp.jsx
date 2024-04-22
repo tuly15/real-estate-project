@@ -99,7 +99,7 @@ const SignUp = () => {
               {...register("name", { required: true })}
               type="text"
               name="name"
-              placeholder="Shawn Islam"
+              placeholder="Tommy Harbard.."
               className="w-full px-3 py-2 border rounded-md dark:border-gray-300 dark:bg-gray-50 dark:text-gray-800"
             />
           </div>
@@ -142,7 +142,7 @@ const SignUp = () => {
               type="email"
               name="email"
               id="email"
-              placeholder="leroy@jenkins.com"
+              placeholder="mmmm@gmail.com"
               className="w-full px-3 py-2 border rounded-md dark:border-gray-300 dark:bg-gray-50 dark:text-gray-800"
             />
             {errors.email && (

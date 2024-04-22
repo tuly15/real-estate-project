@@ -155,7 +155,7 @@ const SignIn = () => {
               {...register("email", { required: true })}
               type="email"
               name="email"
-              placeholder="leroy@jenkins.com"
+              placeholder="mmmm@gmail.com"
               className="w-full px-3 py-2 border rounded-md dark:border-gray-300 dark:bg-gray-50 dark:text-gray-800 focus:dark:border-violet-600"
             />
 

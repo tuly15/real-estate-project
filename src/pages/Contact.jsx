@@ -125,7 +125,7 @@ const Contact = () => {
                 {...register("address")}
                 name="address"
                 type="text"
-                placeholder="Adalot Para, Chandpur-3600, Bangladesh"
+                placeholder="flat no/ road...."
                 className="bg-base-300 border-none outline-none input w-full rounded-md focus:ring focus:ring-opacity-75 text-gray-900 focus:ring-violet-400 border-gray-700"
               />
             </div>
@@ -141,7 +141,7 @@ const Contact = () => {
                 {...register("city")}
                 name="city"
                 type="text"
-                placeholder="Chandpur, Bangladesh"
+                placeholder="Enter your city..."
                 className="bg-base-300 border-none outline-none input w-full rounded-md focus:ring focus:ring-opacity-75 text-gray-900 focus:ring-violet-400 border-gray-700"
               />
             </div>
@@ -157,7 +157,7 @@ const Contact = () => {
                 {...register("state")}
                 name="state"
                 type="text"
-                placeholder="Chandpur-3600"
+                placeholder="Enter your state/province..."
                 className="bg-base-300 border-none outline-none input w-full rounded-md focus:ring focus:ring-opacity-75 text-gray-900 focus:ring-violet-400 border-gray-700"
               />
             </div>
@@ -173,7 +173,7 @@ const Contact = () => {
                 {...register("zip")}
                 name="zip"
                 type="text"
-                placeholder="3600"
+                placeholder="Enter postal code.."
                 className="bg-base-300 border-none outline-none w-full input  rounded-md focus:ring focus:ring-opacity-75 text-gray-900 focus:ring-violet-400 border-gray-700"
               />
             </div>

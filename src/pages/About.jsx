@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import aboutbannerfirst from "../assets/about1.jpg";
-import aboutbannersecond from "../assets/about2.jpg";
+import aboutbannersecond from "../assets/about2.webp";
 import { useForm } from "react-hook-form";
 import { Helmet } from "react-helmet";
 import { useContext } from "react";

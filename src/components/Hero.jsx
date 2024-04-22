@@ -110,8 +110,8 @@ const Hero = () => {
           </form>
         </div>
         <div data-aos="fade-left" data-aos-delay="900" className="lg:w-[48%]">
-          <h1 className="lg:text-6xl  text-xl md:text-4xl font-bold lg:text-start text-center text-black md:text-white ">
-            Find Your <span className="text-[#D72050]">Accomodation</span> With{" "}
+          <h1 className="lg:text-6xl  text-xl md:text-4xl font-bold lg:text-start text-center text-gray md:text-white ">
+            Find Your <span className="text-cyan-400">Accomodation</span> With{" "}
             {""}
             <span className="  font-bold bg-gradient-to-r from-orange-700 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient bg-300%">
               DreamHousings {""}
