@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Discount = () => {
     return (
       <div data-aos="fade-down" >
-        <div className="my-5 md:max-w-6xl md:mx-auto md:my-10 p-6  md:py-12 bg-[#FFBF0F] rounded-lg dark:bg-violet-600 dark:text-gray-50">
+        <div className="my-5 md:max-w-6xl md:mx-auto md:my-10 p-6  md:py-12 bg-[#FFBF0F] rounded-lg dark:bg-cyan-600 dark:text-gray-50">
           <div className="container mx-auto ">
             <div className="flex flex-col lg:flex-row items-center justify-between">
               <h2
@@ -12,15 +12,15 @@ const Discount = () => {
               >
                 Up to
                 <br className="sm:hidden" />
-                50% Off
+                30% Off
               </h2>
               <div
                 data-aos="zoom-in"
                 data-aos-delay="800"
                 className="space-x-2 text-center py-2 lg:py-0"
               >
-                <span>Plus free shipping! Use code:</span>
-                <span className="font-bold text-lg">PREBON50</span>
+                <span>Plus amazing gifts! Use code:</span>
+                <span className="font-bold text-lg">Dream30</span>
               </div>
               <div data-aos="zoom-in">
                 <Link
