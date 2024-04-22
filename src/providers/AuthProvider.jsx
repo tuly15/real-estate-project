@@ -85,7 +85,7 @@ const AuthProvider = ({ children }) => {
   // Update Profile
   // Load Data
   useEffect(() => {
-    fetch("./data.json")
+    fetch("/data.json")
       .then((res) => res.json())
       .then((data) => setData(data));
   }, []);
