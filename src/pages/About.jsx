@@ -31,7 +31,7 @@ const About = () => {
         <meta charSet="utf-8" />
         <title>About Us</title>
       </Helmet>
-      <section className="dark:bg-gray-100 dark:text-gray-800">
+      <section className="dark:bg-cyan-200 dark:text-gray-800">
         <div className="container flex flex-col justify-center p-4 mx-auto md:p-8">
           <h2
             data-aos="fade-up"
@@ -249,7 +249,7 @@ const About = () => {
               <div className="mt-12 space-y-12">
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                    <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-cyan-600 dark:text-gray-50">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         fill="none"
@@ -284,7 +284,7 @@ const About = () => {
                 </div>
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                    <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-cyan-600 dark:text-gray-50">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         fill="none"
@@ -319,7 +319,7 @@ const About = () => {
                 </div>
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                    <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-cyan-600 dark:text-gray-50">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         fill="none"
@@ -388,7 +388,7 @@ const About = () => {
                 <div className="mt-12 space-y-12">
                   <div className="flex">
                     <div className="flex-shrink-0">
-                      <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                      <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-cyan-600 dark:text-gray-50">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           fill="none"
@@ -418,7 +418,7 @@ const About = () => {
                   </div>
                   <div className="flex">
                     <div className="flex-shrink-0">
-                      <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                      <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-cyan-600 dark:text-gray-50">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           fill="none"
@@ -448,7 +448,7 @@ const About = () => {
                   </div>
                   <div className="flex">
                     <div className="flex-shrink-0">
-                      <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                      <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-cyan-600 dark:text-gray-50">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           fill="none"
@@ -551,7 +551,7 @@ const About = () => {
             <button
               onClick={handleSubmit(onSubmit)}
               type="button"
-              className="btn btn-primary py-4 my-8 font-semibold rounded-md dark:text-gray-50 dark:bg-violet-600"
+              className="btn btn-primary py-4 my-8 font-semibold rounded-md dark:text-gray-50 dark:bg-cyan-600"
             >
               Leave feedback
             </button>

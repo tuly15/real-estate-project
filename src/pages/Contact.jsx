@@ -22,7 +22,7 @@ const Contact = () => {
     reset();
   };
   return (
-    <section className="p-6  text-gray-500">
+    <section className="p-6  text-gray-800">
       <Helmet>
         <title>Contact</title>
       </Helmet>
@@ -43,7 +43,7 @@ const Contact = () => {
             <p
               data-aos="fade-right"
               data-aos-delay="500"
-              className="font-medium"
+              className="font-xl text-cyan-600"
             >
               Contact Us
             </p>
