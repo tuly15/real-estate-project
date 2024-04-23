@@ -4,12 +4,12 @@ import { AuthContext } from "../providers/AuthProvider";
 import { setItem } from "../utilities/script";
 import { Helmet } from "react-helmet-async";
 import Spinner from "../components/Spinner";
-import { MdOutlineVerified } from "react-icons/md";
+  import { MdOutlineVerified } from "react-icons/md";
 export const handleSingleData = (id) => {};
 const EstateDetails = () => {
   const { id } = useParams();
   const { data } = useContext(AuthContext);
-  const singleData = data.find((dataItem) => dataItem.id == id);
+  const singleData = data?.find((dataItem) => dataItem.id == id);
   const navigation = useNavigation();
   const navigate = useNavigate();
 
